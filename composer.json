@@ -1,1 +1,17 @@
-
+"repositories": [
+    {
+        "type":"package",
+        "package": {
+          "name": "jaylonia03/BotPack",
+          "version":"master",
+          "source": {
+              "url": "https://github.com/jaylonia03/BotPack.git",
+              "type": "git",
+              "reference":"master"
+            }
+        }
+    }
+],
+"require": {
+    "jaylonia03/BotPack": "master"
+}
